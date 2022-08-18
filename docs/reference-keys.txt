@@ -34,10 +34,12 @@ teaching-assistants
 ta-office-hours
 getting-to-know-the-tas
 getting-help-with-431
-piazza-is-the-place-to-ask-questions
-virtual-ta-office-hours-provide-one-on-one-help
-meeting-with-professor-love
+campuswire-is-the-place-to-ask-questions-and-discuss-the-course
+ta-office-hours-is-the-place-to-get-one-on-one-help-for-431
 how-well-use-canvas
+how-well-use-google-drive
+meeting-with-professor-love
+other-sources-of-help
 deliverables-assignments
 deadlines-for-deliverables
 minute-papers-and-class-participation
@@ -49,7 +51,7 @@ a-few-tips-for-early-lab-work
 grading-labs
 appeal-policy---request-a-review-in-december
 quizzes
-piazza-and-the-quizzes
+campuswire-and-the-quizzes
 about-the-quizzes
 grading-the-quizzes
 projects
