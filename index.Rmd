@@ -459,7 +459,11 @@ Details to come.
 
 #### Kyaw Hla {-}
 
-Details to come.
+```{r Kyaw_fig, echo = FALSE, out.width = '20%'}
+knitr::include_graphics("images/Kyaw_Hla.jpg")
+```
+
+Kyaw Hla is in his final semester in the M.S. program (capstone) in Clinical Research. He completed his bachelor's in Medicine and Surgery in Burma. Currently, his research addresses the genetic mechanisms of critical illness in TB and COVID-19. He took 431/432 this past year, and he is applying the skills of statistics in his research projects. He enjoys reading, writing and solving puzzles.
 
 #### Zhengxi Chen {-}
 
