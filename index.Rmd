@@ -302,7 +302,7 @@ These instructions are also available on the Software page at our main course we
     - If you prefer, you can instead install [RStudio's Preview Version](https://www.rstudio.com/products/rstudio/download/preview/) to get the very latest features, but that requires you to update your setup more frequently, and occasionally deal with some additional troubleshooting. 
     - Professor Love will stick with the regular open source version in his work for 431.
 3. Install some **R packages** - an R "package" is a collection of functions, data, and documentation that extends the capabilities of R, and is the critical way to get R doing interesting work. 
-    - Details on installing key packages we will use in 431 are found on the Software page of our Main Website at https://thomaselove.github.io/431-2022/, and that's also where you'll find a list of packages you'll need in the 431 course.
+    - Details on installing key packages we will use in 431 are found at https://github.com/THOMASELOVE/431-packages, and that's also where you'll find a list of packages you'll need in the 431 course.
 4. Download data and code (functions) we've developed specifically for 431 at https://github.com/THOMASELOVE/431-data.
     - Follow the instructions you'll find there.
 
