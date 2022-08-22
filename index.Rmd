@@ -383,7 +383,7 @@ Professor Love is available for the 10 minutes before and approximately 20 minut
 ## Name, Pronouns, Social Media
 
 - Professor Love uses he/him/his pronouns, and identifies as male.
-    - Most students refer to him either as Professor Love or Professor Love, and he prefers this in class.
+    - Most students refer to him either as Professor Love or Doctor Love, and he prefers this in class.
     - He prefers his given name to be written "Thomas" as opposed to "Tom".
     - Most of his friends and colleagues call him "Tom". You are welcome to do so, outside of class time, if it makes you comfortable.
 - At Github, he is [THOMASELOVE](https://github.com/THOMASELOVE).
@@ -427,7 +427,7 @@ Professor Love will also hold "office hours" before and after each class to the 
 knitr::include_graphics("images/Stephanie_Merlino_Barr.jpg")
 ```
 
-Stephanie Merlino Barr is a fifth year Ph.D. candidate in the Clinical Translational Science program and a full-time dietitian in the Neonatal Intensive Care Unit (NICU) at MetroHealth Medical Center; she is excited to be back TAing 431/432 for a third year! Stephanie's research focuses on the relationship of early life nutrition interventions and long-term growth and developmental outcomes in very low birthweight infants. Outside of work & PhD life, Stephanie is training for her first marathon and attempting to garden.
+Stephanie Merlino Barr is a Ph.D. candidate in the Clinical Translational Science program and a full-time dietitian in the Neonatal Intensive Care Unit (NICU) at MetroHealth Medical Center; she is excited to be back TAing 431/432! Stephanie’s research focuses on the relationship of early life nutrition interventions and long-term growth and developmental outcomes in very low birthweight infants. Outside of work & PhD life, Stephanie spends her time running, gardening, and hanging out with her dog.
 
 #### Shiying Liu {-}
 
@@ -451,7 +451,7 @@ Ali Elsharkawi is in his third year in the M.S program in Clinical Research. He 
 knitr::include_graphics("images/Monika_Strah.jpg")
 ```
 
-Monika Strah is in her final semester in the MS Biostatistics program. Monika's undergraduate degree is in Mathematics. Her research includes mathematical approaches to questions in population genetics and human evolution. Monika completed 431 and 432 in 2020/21 as well as 450 and 490. 
+Monika Strah is presently completing her last semester of the M.S. program in Biostatistics. She is looking forward to a second year as a TA for 431/432 and also working as a research assistant in the PQHS department. Monika’s undergraduate degree is in Mathematics and she taught Mathematics at Kent State before coming to Case. Monika’s research includes mathematical approaches to questions in population genetics and human evolution. Monika enjoys reading, hiking and is a member of the National Ski Patrol.
 
 #### Ria Tilve {-}
 
@@ -467,7 +467,11 @@ Kyaw Hla is in his final semester in the M.S. program (capstone) in Clinical Res
 
 #### Zhengxi Chen {-}
 
-Details to come.
+```{r Zhengxi_fig, echo = FALSE, out.width = '20%'}
+knitr::include_graphics("images/Zhengxi_Chen.jpeg")
+```
+
+Zhengxi Chen is a first-year Ph.D. student in Epidemiology and Biostatistics within the Department of Population & Quantitative Health Sciences. Zhengxi obtained his bachelor’s degree in biochemistry at University of Wisconsin-Madison in 2018 and Master’s degree in Biostatistics at Duke University in 2020. After working at Duke University Health System and VA Medical Center for two years, he decided to pursue a Ph.D. His current research interest is the joint modelling of time-to-event and longitudinal data. Outside of work & PhD life, Zhengxi enjoys playing Texas Hold’em, video games and badminton. He’s looking forward to making connections with students in and out of class.
 
 #### Lindsay Petrenchik {-}
 
