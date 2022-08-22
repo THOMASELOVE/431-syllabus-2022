@@ -294,7 +294,7 @@ You will need access to a computer to do your work for this class, not just an i
 
 ### What will I need for 431?
 
-These instructions are also available on the Software page at our main course website: https://thomaselove.github.io/431-2022/.
+These instructions are also available on [the Software page](https://thomaselove.github.io/431-2022/software.html) at our main course website: https://thomaselove.github.io/431-2022/.
 
 1. Download and install **the latest version of R** (version **4.2.1 or later**) from http://cran.case.edu/ or, if you prefer, from https://cloud.r-project.org which automatically chooses a fast, nearby mirror for you.
     - If you have a pre-existing installation of R and/or RStudio, we highly recommend that you re-install both to get current.
