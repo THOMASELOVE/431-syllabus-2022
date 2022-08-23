@@ -40,8 +40,8 @@ how-well-use-canvas
 how-well-use-google-drive
 meeting-with-professor-love
 other-sources-of-help
-deliverables-assignments
-deadlines-for-deliverables
+assignments
+deadlines-for-assignments
 minute-papers
 class-participation
 labs

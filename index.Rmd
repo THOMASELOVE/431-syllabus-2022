@@ -455,7 +455,11 @@ Monika Strah is presently completing her last semester of the M.S. program in Bi
 
 #### Ria Tilve {-}
 
-Details to come.
+```{r Ria_fig, echo = FALSE, out.width = '20%'}
+knitr::include_graphics("images/Ria_Tilve.png")
+```
+
+Ria Tilve is in her second year of the MPH program in Population Health Research. She completed her bachelor's degree in Biochemistry last spring at CWRU. Her current research focuses on musculoskeletal health and biomedical imaging. Ria took 431 and 432 this past year, and she is applying those skills in her research projects. Outside of studying, Ria enjoys spending time with her family, running, watching sports, and exploring new places.
 
 #### Kyaw Hla {-}
 
@@ -532,20 +536,20 @@ In addition, there are many, many online resources to help you learn R beyond th
   - Building internet searches ("googling") effectively is an important skill that requires practice. Don't be afraid to use search engines to figure out how to code things in R, for example.
   - The [RStudio Community](https://community.rstudio.com/) is a forum specifically designed for people using RStudio and the tidyverse (and that will be you.)
 
-# Deliverables / Assignments
+# Assignments
 
-Course deliverables (assignments) include (in increasing order of importance):
+Course assignments include (in increasing order of importance):
 
 - minute papers (and class participation)
 - labs
 - quizzes, and
 - projects
 
-The Deliverables page linked on the [main course website](https://thomaselove.github.io/431-2022/) provides additional information on all deliverables.
+The Assignments page linked on the [main course website](https://thomaselove.github.io/431-2022/) provides links to additional information on these assignments.
 
-## Deadlines for Deliverables
+## Deadlines for Assignments
 
-All deadlines for deliverables are posted as part of the [Course Calendar](https://thomaselove.github.io/431-2022/calendar.html), and the Calendar is the final word for all deadlines.
+All deadlines are posted as part of the [Course Calendar](https://thomaselove.github.io/431-2022/calendar.html), and the Calendar is the final word for all deadlines.
 
 - On every assignment, Lab, Quiz, project-related task, whatever, we will be delighted to respond to questions **up to 12 hours before** the assignment is due. After that time, you may wind up on your own. The reason for this is that Professor Love and the teaching assistants will regularly post responses to frequently asked questions about assignments, and we need sufficient time to accomplish this task.
 
@@ -578,7 +582,7 @@ We cannot emphasize enough how much we want to hear from you about things that a
 
 During the semester, there are **eight** lab assignments scheduled. Professor Love reserves the right to change the number of labs depending on how the class is going during the semester. 
 
-The [Course Calendar](https://thomaselove.github.io/431-2022/calendar.html) provides deadlines for all Labs, and the  Deliverables page linked on the [main course website](https://thomaselove.github.io/431-2022/) provides additional information on all Labs.
+The [Course Calendar](https://thomaselove.github.io/431-2022/calendar.html) provides deadlines for all Labs, and the Assignments page linked on the [main course website](https://thomaselove.github.io/431-2022/) provides additional information on all Labs.
 
 - Most labs require straightforward demonstrations of mastery for core principles and fundamental skills. Some require deeper dives into more technically sophisticated material. 
 - Most labs ask you to clean/visualize/analyze some data that we provide to you, and also to react to something we're reading at the same time in the Spiegelhalter book. 
@@ -605,7 +609,7 @@ There are seven main Labs (labeled Lab 01 - Lab 07) and an additional assignment
 
 During the semester, you will have two quizzes to complete. Each quiz is taken online via a Google Form (like the Minute Papers or the [Welcome to 431 survey](https://bit.ly/431-2022-welcome-survey).) Each quiz includes both short-answer and multiple-choice items. The quizzes focus on whether you can apply the tools developed in class to address small problems.
 
-The [Course Calendar](https://thomaselove.github.io/431-2022/calendar.html) provides deadlines for each of the Quizzes, and the  Deliverables page linked on the [main course website](https://thomaselove.github.io/431-2022/) provides additional information on both Quizzes.
+The [Course Calendar](https://thomaselove.github.io/431-2022/calendar.html) provides deadlines for each of the Quizzes, and the Assignments page linked on the [main course website](https://thomaselove.github.io/431-2022/) provides links to instructions for Quizzes.
 
 You will typically receive access to the quiz 3-4 days before it is due, and each quiz will be designed to take about six hours to complete, so the time pressure should be minimal. **If you need to make alternate arrangements for a Quiz, please contact Professor Love via email as soon as possible**, at least a week before a Quiz is released. 
 
@@ -635,7 +639,7 @@ During the semester, you will have two projects to complete.
 - Project A anticipates you using materials from the first 14 classes.
 - Project B anticipates you using materials from all 24 classes.
 
-The [Course Calendar](https://thomaselove.github.io/431-2022/calendar.html) provides deadlines for all Project elemnents, and the Deliverables page linked on the [main course website](https://thomaselove.github.io/431-2022/) provides additional information on all Projects.
+The [Course Calendar](https://thomaselove.github.io/431-2022/calendar.html) provides deadlines for all Project elemnents, and the Assignments page linked on the [main course website](https://thomaselove.github.io/431-2022/) provides additional information on all Projects.
 
 
 
@@ -713,7 +717,7 @@ Your lowest lab score (out of the first seven) over the course of the semester w
 
 ## Lab Appeal Policy - Request a Review via Google Form
 
-Clarification of concerns related to potential typographical or other errors in our Lab answer sketches is welcome at any time, but haggling over points on assignments can be a real time sink in a large class. To that end, students are **requested not to dispute** any grading on Labs during the semester, but instead to request a review using the Google Form for Lab Appeals that can be found linked on the Deliverables page on our main web site.
+Clarification of concerns related to potential typographical or other errors in our Lab answer sketches is welcome at any time, but haggling over points on assignments can be a real time sink in a large class. To that end, students are **requested not to dispute** any grading on Labs during the semester, but instead to request a review using the Google Form for Lab Appeals that can be found linked on the Asssignments page on our main web site.
 
 Should you receive a lower grade on a Lab than you feel you deserve based on the feedback the TA provides, the answer sketch and the grading rubric, you can submit a request for a regrade by Professor Love by submitting a request through a Google Form he will provide to you.
 
