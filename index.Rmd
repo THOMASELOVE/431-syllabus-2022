@@ -492,8 +492,9 @@ Once the course begins, you have several ways to get help from us:
 ## Campuswire is the place to ask questions and discuss the course
 
 - We will use Campuswire this semester to facilitate questions and answers. We'll be conducting all class-related discussion there, instead of via email.
-- The link to our Campuswire site will be provided at our first class.
-  - If you're successfully enrolled in the class, you should be able to sign up immediately.
+- You can sign up for Campuswire at https://campuswire.com/p/G773930B7. 
+  - Be sure to sign in with your full name and an email address that you will check daily.
+  - If you're successfully enrolled in the class, you should be able to sign up immediately and gain access to Professor Love's 431 course.
     - The quicker you begin asking questions on Campuswire (rather than via emails), the quicker you'll benefit from the collective knowledge of your classmates and instructors. 
     - We encourage you to ask questions when you're struggling to understand anything related to the class, and you can even do so anonymously.
     - You'll also be able to help your colleagues by answering their questions (and you'll get some class participation credit for doing so), as well.
@@ -580,7 +581,7 @@ We cannot emphasize enough how much we want to hear from you about things that a
 
 ## Labs
 
-During the semester, there are **eight** lab assignments scheduled. Professor Love reserves the right to change the number of labs depending on how the class is going during the semester. 
+During the semester, there are **seven** main lab assignments scheduled. Professor Love reserves the right to adjust the number of labs depending on how the class is going during the semester. 
 
 The [Course Calendar](https://thomaselove.github.io/431-2022/calendar.html) provides deadlines for all Labs, and the Assignments page linked on the [main course website](https://thomaselove.github.io/431-2022/) provides additional information on all Labs.
 
@@ -592,11 +593,9 @@ Lab assignments are submitted through [Canvas](https://canvas.case.edu). The lin
 
 Each lab is associated with a deadline. Late work is permitted, but penalized (see the Grading section below.)
 
-
-
 ### Lab X
 
-There are seven main Labs (labeled Lab 01 - Lab 07) and an additional assignment called Lab X which involves building a website for yourself. See the Lab X instructions for more details.
+There is an additional assignment called Lab X which involves building a website for yourself. See the Lab X instructions for more details.
 
 ### A few tips for Early Lab Work
 
@@ -617,7 +616,7 @@ You will typically receive access to the quiz 3-4 days before it is due, and eac
 
 As we've discussed, for most of the course, Campuswire will be our tool for asking and answering questions. 
 
-**However, for questions about the Quizzes**, we will provide an alternate method for you to ask questions of Professor Love and the Teaching Assistants, and we will share that approach at the top of each Quiz as they become available.
+**However, for questions about the Quizzes**, we may provide an alternate method for you to ask questions of Professor Love and the Teaching Assistants, and if so, we will share that approach at the top of the Quiz instructions when they become available.
 
 ### About the Quizzes
 
@@ -942,6 +941,6 @@ The [University Resources for Student Support][University Resources / Student Su
 
 # Movies
 
-Once you have read through this Syllabus, please e-mail Professor Love the poster for one of your favorite movies. If he receives your poster by 9 AM Eastern time on Tuesday 2022-09-06, he will add some bonus credit to your class participation grade.
+Once you have read through this Syllabus, please e-mail Professor Love the poster for one of your favorite movies. Use the subject line: **431 Favorite Movie**. If he receives your poster by 9 AM Eastern time on Tuesday 2022-09-06, he will add some bonus credit to your class participation grade.
 
 Thank you.
