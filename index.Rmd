@@ -557,7 +557,7 @@ All deadlines are posted as part of the [Course Calendar](https://thomaselove.gi
 
 ## Minute Papers
 
-During the semester, there are **11** Minute Papers scheduled. In this class, a Minute Paper is a short survey (completed using a Google Form) where you will answer a few questions about how the course is going for you. To complete the Minute Paper, you'll need to log into Google with your CWRU account. The [Welcome to 431 Survey](https://bit.ly/431-2022-welcome-survey) uses a similar format, but is more extensive than a typical Minute Paper. 
+During the semester, there are **9** Minute Papers scheduled. In this class, a Minute Paper is a short survey (completed using a Google Form) where you will answer a few questions about how the course is going for you. To complete the Minute Paper, you'll need to log into Google with your CWRU account. The [Welcome to 431 Survey](https://bit.ly/431-2022-welcome-survey) uses a similar format, but is more extensive than a typical Minute Paper. 
 
 Each Minute Paper ideally takes less than five minutes to complete, and is best done right at the end of Tuesday's class. The Minute Papers are actually due at noon Wednesday most weeks to give you some time to reflect, if you'd like, or if you're in a hurry at the end of Tuesday's class.
 
@@ -677,9 +677,9 @@ Students whose course average is near or below 70% usually have failed to comple
 
 Student Class Participation grades are determined by Professor Love out of a maximum of 100 points. This determination is based on:
 
-- 25 points for completing the [Welcome to 431  survey](https://bit.ly/431-2022-welcome-survey) that most of you did prior to class, and if you haven't done it, please do so now.
-- plus up to 55 additional points for Minute Paper responses (5 points for each on-time submission, 3 points for late submissions within 24 hours of the deadline.)
-- plus up to 25 bonus points for actions that help the class, as awarded during the semester
+- 30 points for completing the [Welcome to 431  survey](https://bit.ly/431-2022-welcome-survey) that most of you did prior to class, and if you haven't done it, please do so now.
+- plus up to 45 additional points for Minute Paper responses (5 points for each on-time submission, 3 points for late submissions within 24 hours of the deadline.)
+- plus up to 35 bonus points for actions that help the class, as awarded during the semester
 
 These bonus points have a small impact, generally, but include things like:
 
@@ -690,7 +690,7 @@ These bonus points have a small impact, generally, but include things like:
 - completing (in a timely fashion) special "partially hidden" tasks that Professor Love buries within longer documents to ascertain whether or not you're reading these documents effectively.
 - plus a few other things that come under the general heading of "being helpful."
 
-Thanks to the bonus, scores up to 105 / 100 in Class Participation are technically possible. Bonus credit is capped so that no one's class participation score will exceed 105 points.
+Thanks to the bonus, scores up to 110 / 100 in Class Participation are technically possible. Bonus credit is capped so that no one's class participation score will exceed 105 points.
 
 ## Grading Labs
 
