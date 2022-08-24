@@ -720,9 +720,9 @@ Clarification of concerns related to potential typographical or other errors in 
 
 Should you receive a lower grade on a Lab than you feel you deserve based on the feedback the TA provides, the answer sketch and the grading rubric, you can submit a request for a regrade by Professor Love by submitting a request through a Google Form he will provide to you.
 
-- On the course's Labs page, we include a section about Grading Errors and Regrade Requests. There, you'll find a link to a Google form (you must log into Google via CWRU to see it) listing all of the Labs. Any student who wishes to dispute points can specify the number of points in question for each item, and the details of the issues that concern them. 
-    - If you wish to dispute a grade, just fill out the form at any time before the deadline in December. You can edit the form after submitting it so that you can add additional requests up until the end of the semester.
+- On the course's Labs page, we include a section about Grading Errors and Regrade Requests. There, you'll find a link to [this Google Form](https://bit.ly/431-2022-lab-regrade-requests) (you must log into Google via CWRU to see it) listing all of the Labs. Any student who wishes to dispute points can specify the number of points in question for each item, and the details of the issues that concern them. 
     - All forms must be submitted by the deadline in December specified on the Course Calendar.
+    - If you wish to dispute a grade, just fill out the form at any time before the deadline in December. You can edit the form after submitting it so that you can add additional requests up until the end of the semester.
     - Disputing a grade on a homework with a teaching assistant is pointless. 
     - Professor Love is responsible for all final grading decisions, and if you have a concern, you should submit your request through the form.
     
