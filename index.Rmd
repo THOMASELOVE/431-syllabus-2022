@@ -635,12 +635,10 @@ As we've discussed, for most of the course, Campuswire will be our tool for aski
 
 During the semester, you will have two projects to complete. 
 
-- Project A anticipates you using materials from the first 14 classes.
+- Project A anticipates you using materials from the first 15 classes.
 - Project B anticipates you using materials from all 24 classes.
 
 The [Course Calendar](https://thomaselove.github.io/431-2022/calendar.html) provides deadlines for all Project elemnents, and the Assignments page linked on the [main course website](https://thomaselove.github.io/431-2022/) provides additional information on all Projects.
-
-
 
 # Course Grades
 
