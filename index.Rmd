@@ -21,7 +21,7 @@ knitr::include_graphics("images/431_foot2.PNG")
 
 ## Working With This Syllabus {-}
 
-1. This syllabus includes multiple sections. Use the table of contents on the left side of the screen to navigate. 
+1. This syllabus includes **fourteen** sections. Use the table of contents on the left side of the screen to navigate. Make sure you look at each section.
 2. At the top of the syllabus, click the icons to:
     - toggle the table of contents sidebar,
     - search the syllabus, 
@@ -33,7 +33,7 @@ knitr::include_graphics("images/431_foot2.PNG")
 
 - The course instructor is [Professor Thomas E. Love][Professor Love]. 
   - Email him at **Thomas dot Love at case dot edu** if you have any questions before class.
-- There are several [teaching assistants][Teaching Assistants] helping with the course this semester.
+- There are eight [teaching assistants][Teaching Assistants] helping with the course this semester.
 - The course is given on Tuesdays and Thursdays from 1:00 to 2:15 PM Eastern Time, in Room E321-323 in Robbins Hall, within CWRU's School of Medicine, starting on 2022-08-30.
 
 # Getting Started
@@ -71,18 +71,17 @@ By the first class, this page will house links to everything we will provide, in
 - The [Course Calendar](https://thomaselove.github.io/431-2022/calendar.html), which is the final word for all deadlines and assignments
     - The [Calendar](https://thomaselove.github.io/431-2022/calendar.html) also links to materials for each class, including presentation slides and announcements
 - [Data (and Code)](https://github.com/THOMASELOVE/431-data) for the course's assignments, presentations, and notes
-- Readings and other Supplemental Materials that we'll review during the course
-- Our Campuswire discussion forum for questions and answers about R and the course
+- Our [Campuswire discussion forum](https://thomaselove.github.io/431-2022/campuswire.html) for questions and answers about R and the course
 - Our [Canvas page](https://canvas.case.edu) for turning in assignments and downloading recordings.
 
 ## Contact Information
 
-Our main website at https://thomaselove.github.io/431-2022/ includes a **Contact Us page** which provides detailed information on the best ways to get help from [Professor Love][Professor Love] and the [Teaching Assistants][Teaching Assistants] during the semester.
+Our main website at https://thomaselove.github.io/431-2022/ includes a [Contact Us page](https://thomaselove.github.io/431-2022/contact.html) which provides detailed information on the best ways to get help from [Professor Love][Professor Love] and the [Teaching Assistants][Teaching Assistants] during the semester.
 
-- The course Teaching Assistants will hold regular office hours, begin on 2022-09-06 and end on 2022-12-12, over Zoom, and the schedule for these sessions will be found on the Contact Us page.
-  - Once the semester begins, questions about course materials are best asked through Campuswire or in TA Office Hours, over Zoom.
+- The course Teaching Assistants will hold regular office hours, begin on 2022-09-06 and end on 2022-12-12, over Zoom, and the schedule for these sessions will be found on the [Contact Us page](https://thomaselove.github.io/431-2022/contact.html) and the [Course Calendar](https://thomaselove.github.io/431-2022/calendar.html).
+  - Once the semester begins, questions about course materials are best asked through [Campuswire](https://thomaselove.github.io/431-2022/campuswire.html) or in TA Office Hours, over Zoom.
 - Professor Love will arrive 10 minutes before each class, and stay afterwards, as well, to discuss any student concerns appropriate to that setting.
-  - Professor Love's office at CWRU is on the ground floor of the Wood building (in the WG-82 Suite), specifically WG-82J. Email him if you need an appointment.
+  - Professor Love's office at CWRU is on the ground floor of the Wood building (in the WG-82 Suite), specifically WG-82J. Email him if you need an appointment, either in person or via Zoom.
 - If you have any unique concerns about the course, need special accommodations or have any other issues you want to discuss with Professor Love specifically, please email him directly (**Thomas dot Love at case dot edu**) and he'll respond as quickly as possible.
 
 
@@ -92,7 +91,7 @@ PQHS 431 (cross-listed as CRSP 431 and MPHP 431) is the first half of a two-seme
 
 The course is formally titled *Statistical Methods in Biological & Medical Sciences, Part 1.* A more accurate title is **Data Science for Biological, Medical or Health Research**.
 
-We'll learn about managing and visualizing data, building models and making predictions, and other data science activities. This highly applied course focuses on modern tools for learning from data. We'll learn a lot of R, and we'll use RStudio and R Markdown as tools to help make R work better, and help perform our research in rigorous and replicable ways.
+We'll learn about managing and visualizing data, building models and making predictions, and other data science activities. This highly applied course focuses on modern tools for learning from data. We'll learn a lot of R, and we'll use RStudio and R Markdown (and, in 432, Quattro) as tools to help make R work better, and help perform our research in rigorous and replicable ways.
 
 ## Course Objectives
 
@@ -125,13 +124,13 @@ This is **NOT** a course in mathematical statistics or statistical inference. It
 
 ## 431 Course Outline & Format
 
-The main group sessions for the 431 course will include 24 in-person lecture sessions led by Professor Love, to be held on Tuesdays and Thursdays from 1:00 to 2:15 PM in E321-323 in the Robbins Building at the CWRU School of Medicine. 
+The main group sessions for the 431 course will include 24 in-person lecture sessions (plus two "working day" sessions to be explained later in the term) led by Professor Love, to be held on Tuesdays and Thursdays from 1:00 to 2:15 PM in E321-323 in the Robbins Building at the CWRU School of Medicine. 
 
 - The [Course Calendar](https://thomaselove.github.io/431-2022/calendar.html) provides additional detail on specific sessions, and links to materials used in those sessions, including slides.
 
 ### Part A: R and Exploring Data
 
-Classes 1-10 (roughly) focus on this material.
+Classes 1-12 (roughly) focus on this material.
 
 - Exploratory Data Analysis
     - Descriptive Numerical and Graphical Summaries
@@ -146,7 +145,7 @@ Classes 1-10 (roughly) focus on this material.
 
 ### Part B: Making Comparisons
 
-Classes 11-16 (roughly) focus on this material.
+Classes 13-17 (roughly) focus on this material.
 
 - Estimation and Inference for Means and Proportions (especially)
     - Confidence Intervals
@@ -157,7 +156,7 @@ Classes 11-16 (roughly) focus on this material.
 
 ### Part C: Linear Models 
 
-Classes 17-24 (roughly) focus on this material.
+Classes 18-24 (roughly) focus on this material.
 
 - Estimation and Inference using Ordinary Least Squares
     - Simple and Multivariate Linear Regression Models
@@ -211,7 +210,7 @@ Although these Notes share some of the features of a textbook, they are neither 
 
 In addition, **slides** and video recordings from each of Professor Love's lectures, plus other in-class materials will be posted for your use throughout the semester.
 
-Once class begins, access all materials through the main course website at https://thomaselove.github.io/431-2022/.
+Once class begins, you'll be able to access all materials (including the Course Notes) through the main course website at https://thomaselove.github.io/431-2022/.
 
 ## Buy This Book!
 
@@ -250,7 +249,7 @@ While I will recommend dozens, perhaps hundreds of articles, blog posts and the 
 5. [Statistical Inference in the 21st Century: A World Beyond *p* < 0.05](https://amstat.tandfonline.com/toc/utas20/73/sup1) from 2019 in *The American Statistician*
 6. The American Statistical Association's 2016 [Statement on p-Values](http://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108): Context, Process and Purpose.
 
-See the main course website at https://thomaselove.github.io/431-2022/ for other recommendations as the semester goes on.
+Professor Love's class-specific READMEs will provide links to these articles and other recommended readings as the semester goes on.
 
 # Required Software
 
@@ -298,7 +297,7 @@ These instructions are also available on [the Software page](https://thomaselove
 
 1. Download and install **the latest version of R** (version **4.2.1 or later**) from http://cran.case.edu/ or, if you prefer, from https://cloud.r-project.org which automatically chooses a fast, nearby mirror for you.
     - If you have a pre-existing installation of R and/or RStudio, we highly recommend that you re-install both to get current.
-2. Download and install **RStudio Desktop** (Open Source Edition - the free version **2022.07.1 or later**) at https://www.rstudio.com/products/rstudio/download/#download. 
+2. Download and install **RStudio Desktop** (Open Source Edition - the free version **2022.07.1+554 or later**) at https://www.rstudio.com/products/rstudio/download/#download. 
     - If you prefer, you can instead install [RStudio's Preview Version](https://www.rstudio.com/products/rstudio/download/preview/) to get the very latest features, but that requires you to update your setup more frequently, and occasionally deal with some additional troubleshooting. 
     - Professor Love will stick with the regular open source version in his work for 431.
 3. Install some **R packages** - an R "package" is a collection of functions, data, and documentation that extends the capabilities of R, and is the critical way to get R doing interesting work. 
@@ -351,7 +350,7 @@ Hi. I am Thomas E. Love, Ph.D. and I have at least three different jobs.
 - I am a Professor in the Departments of Medicine and Population & Quantitative Health Sciences at Case Western Reserve University. I teach three courses per year there (PQHS 431, 432 and 500) and also lead the Health Care Analytics track of the MS program in Biostatistics.
 - I direct the [Biostatistics and Data Science Division](https://www.metrohealth.org/population-health-research-institute/biostatistics-and-data-sciences) at the [Population Health Research Institute](https://www.metrohealth.org/population-health-research-institute) and at the Center for Health Care Research & Policy, which are jointly supported by The MetroHealth System and by CWRU.
 - For ten years, I was the (founding) Data Director for [Better Health Partnership](http://betterhealthpartnership.org/), an alliance of people who provide, pay for and receive care in Northeast Ohio. I now serve as Chief Data Scientist there.
-- I am a Fellow of the American Statistical Association, and now serve as 2024 Chair for its Council of Sections Governing Board.
+- I am a Fellow of the American Statistical Association, and was recently elected 2024 Chair for its Council of Sections Governing Board.
 - I have won numerous awards for my teaching and my research, including the 2018 [John S. Diekhoff Award for Graduate Teaching](https://students.case.edu/traditions/awards/diekhoff/) from CWRU.
 - I have been teaching at CWRU since 1994, and have taught every manner of CWRU student over the years, especially students in biostatistics, medicine, and management.
 
@@ -364,7 +363,7 @@ In research, I use statistical methods to look at questions in health policy and
 
 If you want to see a [pretty complete list of my publications](https://www.ncbi.nlm.nih.gov/myncbi/thomas.love.1/bibliography/public/), knock yourself out. 
 
-I hold degrees from Columbia University in the City of New York and from the University of Pennsylvania. My dissertation adviser was Paul Rosenbaum. I am married to a brilliant woman who is an attorney at Savant Systems, and we have two terrific sons, one a recent graduate of the University of Pittsburgh, and the younger a junior at Columbia University. I live in Shaker Heights. I also sing and act occasionally in [community theater](https://github.com/THOMASELOVE/theater). My next show begins performances in late October.
+I hold degrees from Columbia University in the City of New York and from the University of Pennsylvania. My dissertation adviser was Paul Rosenbaum. I am married to a brilliant woman who is an attorney at Savant Systems, and we have two terrific sons, one a recent graduate of the University of Pittsburgh, and the younger a junior at Columbia University. I live in Shaker Heights. I also sing and act occasionally in [community theater](https://github.com/THOMASELOVE/theater). My next show begins performances in late October, and I'll let you know more about that in class.
 
 ## Email 
 
@@ -378,7 +377,7 @@ I hold degrees from Columbia University in the City of New York and from the Uni
 
 At other times, Professor Love works from his home in Shaker Heights. 
 
-Professor Love is available for the 10 minutes before and approximately 20 minutes after each class and otherwise by appointment (send email to schedule). 
+Professor Love is available for the 10 minutes before and approximately 20 minutes after each class for drop-in discussions and otherwise by appointment (send email to schedule). 
 
 ## Name, Pronouns, Social Media
 
@@ -495,8 +494,8 @@ Once the course begins, you have several ways to get help from us:
 
 ## Campuswire is the place to ask questions and discuss the course
 
-- We will use Campuswire this semester to facilitate questions and answers. We'll be conducting all class-related discussion there, instead of via email.
-- You can sign up for Campuswire at https://campuswire.com/p/G773930B7. 
+- We will use [Campuswire](https://thomaselove.github.io/431-2022/campuswire.html) this semester to facilitate questions and answers. We'll be conducting all class-related discussion there, instead of via email.
+- You can sign up for this class on Campuswire at https://campuswire.com/p/G773930B7. 
   - Be sure to sign in with your full name and an email address that you will check daily.
   - If you're successfully enrolled in the class, you should be able to sign up immediately and gain access to Professor Love's 431 course.
     - The quicker you begin asking questions on Campuswire (rather than via emails), the quicker you'll benefit from the collective knowledge of your classmates and instructors. 
@@ -512,14 +511,14 @@ You are strongly encouraged to visit TAs during office hours that are convenient
 - Teaching Assistant (TA) office hours will be held via Zoom, beginning on 2022-09-06 and ending on 2022-12-12.
 - The schedule for TA office hours will appear on the [Course Calendar](https://thomaselove.github.io/431-2022/calendar.html), and on our [Contact Us](https://thomaselove.github.io/431-2022/contact.html) page.
 - Office Hours are held for your benefit. Please visit the TAs, especially if you have questions about how to do things in R, or about the content of the class slides or course notes. They're volunteering their time to help you, and most of them have been in your shoes in previous years. They want to help you!
-- More [information on the TAs is available][Teaching Assistants].
+- More [information on the TAs is available here][Teaching Assistants].
 
 ## How We'll Use Canvas
 
-The course's primary listing on [Canvas](https://canvas.case.edu/) is PQHS 431, but students in CRSP 431 and MPHP 431 should find the same information. We'll use the Canvas platform for (only) two things:
+The course's primary listing on [Canvas](https://canvas.case.edu/) is PQHS 431, but students in CRSP 431 and MPHP 431 should find the same information. We'll use the Canvas platform for (at most) two things:
 
-- turning in assignments
-- providing information about (and maintaining recordings of) our class sessions
+- (definitely) turning in lab and project assignments
+- (maybe) providing information about (and maintaining recordings of) our class sessions
 
 Visit https://canvas.case.edu/ to log in and see what's available there.
 
@@ -529,10 +528,10 @@ Professor Love will share some data and some other materials (answer sketches fo
 
 ## Meeting with Professor Love
 
-Professor Love does not hold regular office hours. He will arrive 10 minutes before each class, and stay afterwards, as well, to address any student concerns that can be addressed in that setting.
+Professor Love does not hold regular office hours. He will arrive 10 minutes before each class, and stay afterwards, as well, to address any drop-in student concerns that can be addressed in that setting.
 
 - If you have any unique concerns about the course, need special accommodations or have any other issues you want to discuss with Professor Love specifically, please email him (**Thomas dot Love at case dot edu**) and he'll respond as quickly as possible.
-- Remember that questions about course materials are best asked through Campuswire or at TA Office Hours.
+- Remember that most questions about course materials are best asked through [Campuswire](https://thomaselove.github.io/431-2022/campuswire.html) or at TA Office Hours so that we can share the answers across all students in the course.
 
 ## Other Sources of Help
 
@@ -599,20 +598,20 @@ Each lab is associated with a deadline. Late work is permitted, but penalized (s
 
 ### Lab X
 
-There is an additional assignment called Lab X which involves building a website for yourself. See the Lab X instructions for more details.
+There will be an additional assignment called Lab X which involves building a website for yourself. When it becomes available, see the Lab X instructions for more details.
 
 ### A few tips for Early Lab Work
 
 1. When writing anything for this course in English, use complete sentences, not just bullet points.
 2. Clearly mark each Question in each Lab. There is no need to repeat the question before answering it, although you are welcome to do so.
 3. You are welcome to discuss each Lab with anyone, including Professor Love, the teaching assistants, or your colleagues, but your answer must be prepared by you alone. We especially encourage you to take advantage of TA office hours and Campuswire.
-4. In general, we do not guarantee to provide answers to questions that we receive in the last 12 hours before a Lab is due, especially once we've gotten into mid-September. So don't leave anything until the last day. Allow time for computer problems.
+4. Don't leave anything until the last day. Allow time for computer problems.
 
 ## Quizzes
 
 During the semester, you will have two quizzes to complete. Each quiz is taken online via a Google Form (like the Minute Papers or the [Welcome to 431 survey](https://bit.ly/431-2022-welcome-survey).) Each quiz includes both short-answer and multiple-choice items. The quizzes focus on whether you can apply the tools developed in class to address small problems.
 
-The [Course Calendar](https://thomaselove.github.io/431-2022/calendar.html) provides deadlines for each of the Quizzes, and the Assignments page linked on the [main course website](https://thomaselove.github.io/431-2022/) provides links to instructions for Quizzes.
+The [Course Calendar](https://thomaselove.github.io/431-2022/calendar.html) provides deadlines for each of the Quizzes, and the [Assignments page on the main course website](https://thomaselove.github.io/431-2022/assignments.html) provides links to instructions for Quizzes.
 
 You will typically receive access to the quiz 3-4 days before it is due, and each quiz will be designed to take about six hours to complete, so the time pressure should be minimal. **If you need to make alternate arrangements for a Quiz, please contact Professor Love via email as soon as possible**, at least a week before a Quiz is released. 
 
@@ -642,7 +641,7 @@ During the semester, you will have two projects to complete.
 - Project A anticipates you using materials from the first 15 classes.
 - Project B anticipates you using materials from all 24 classes.
 
-The [Course Calendar](https://thomaselove.github.io/431-2022/calendar.html) provides deadlines for all Project elemnents, and the Assignments page linked on the [main course website](https://thomaselove.github.io/431-2022/) provides additional information on all Projects.
+The [Course Calendar](https://thomaselove.github.io/431-2022/calendar.html) provides deadlines for all Project elements, and the [Assignments page on the main course website](https://thomaselove.github.io/431-2022/assignments.html) provides additional information on all Projects.
 
 # Course Grades
 
@@ -689,40 +688,36 @@ These bonus points have a small impact, generally, but include things like:
 - asking especially helpful questions in the Minute Papers or on Campuswire
 - providing helpful responses to questions and engaging in the discussion on Campuswire
 - identifying interesting visualizations or uses of ideas we're discussing in class in the popular or scientific media (this is also done via Campuswire.)
-- completing (in a timely fashion) special "partially hidden" tasks that Professor Love buries within longer documents to ascertain whether or not you're reading these documents effectively.
+- completing (in a timely fashion) special "partially hidden" tasks that Professor Love buries within longer documents to ascertain whether or not you're reading these documents effectively. For an example, see section 14 of this Syllabus.
 - plus a few other things that come under the general heading of "being helpful."
 
 Thanks to the bonus, scores up to 110 / 100 in Class Participation are technically possible. Bonus credit is capped so that no one's class participation score will exceed 105 points.
 
 ## Grading Labs
 
-The seven Main Labs are graded by the Teaching Assistants, according to a rubric and answer sketch. In grading labs, everything counts, including the quality of the presentation, as well as the coding and statistical work. Grading for Lab X is discussed in the Lab X instructions.
+The seven Main Labs are graded by the Teaching Assistants, according to a rubric and answer sketch. In grading labs, everything counts, including the quality of the presentation, as well as the coding and statistical work. Grading for Lab X will be discussed as part of the Lab X instructions.
 
-For each of the main 7 Labs, we publish a detailed answer sketch (by Noon the day after the deadline). Later, when the grades become available (roughly one week after the deadline) you will also receive the grading rubric used by the teaching assistants. You should expect to receive your grade on each Lab you submit on time roughly one week after the deadline. Along with the grade, on-time labs will receive modest feedback about the work.
+For each of the main 7 Labs, we publish a detailed answer sketch (by Noon the day after the deadline). Later, when the grades become available (roughly one week after the deadline) you will also receive the grading rubric used by the teaching assistants. You should expect to receive your grade on each Lab you submit on time roughly one week after the deadline. Along with the grade, on-time labs will receive modest feedback about the work. 
 
-- Labs received on time can receive up to 100% of the available points for the lab.
+All Labs should be turned in by the deadline specified on the [Course Calendar](https://thomaselove.github.io/431-2022/calendar.html). In this class, it is far better to turn in timely, but only partially complete work than nothing at all. We don't give extensions on Labs. Instead, we use the following grading policy.
 
-In this class, it is far better to turn in timely, but only partially complete work than nothing at all.
+- To receive full credit on a Lab, it must be received on Canvas no later than 59 minutes after the posted deadline. (This allows for small issues with uploading to Canvas to occur without penalty.)
+- Labs that are turned in 1-12 hours after the deadline will lose 10% of available points.
+- Labs turned in more than 12 but less than 72 hours after the deadline will lose 25% of available points.
+- No extensions to Lab deadlines will be permitted this semester. Labs turned in more than 72 hours after the deadline will receive no credit.
 
-All Labs should be turned in by the deadline specified on the [Course Calendar](https://thomaselove.github.io/431-2022/calendar.html). We don't actually give extensions on Labs. Instead, we use the following grading policy.
+Your lowest lab score (out of the first seven) over the course of the semester will be dropped before we calculate your overall lab grade. 
 
-  - Labs that are turned in 1-12 hours after the deadline can receive up to 90% of available points.
-  - Labs turned in 12.1-72 hours after the deadline can receive up to 75% of available points **only if** the student has contacted Professor Love via email to request this opportunity by 12 hours after the original deadline. You need not explain why you need this extension.
-  - Labs turned in more than 72 hours after the deadline (or more than 12 hours after the deadline if you haven't contacted Professor Love via email) receive no credit.
-
-Your lowest lab score (out of the first seven) over the course of the semester will be dropped before we calculate your grade on labs. 
-
-- As a result, you can skip one lab during the semester without penalty.
 - If you decide to skip a lab, please submit a note to Canvas by the deadline saying that you are skipping the lab.
 - Should you run the risk of needing to miss more than one lab during the semester, contact Professor Love via email.
 
 ## Lab Appeal Policy - Request a Review via Google Form
 
-Clarification of concerns related to potential typographical or other errors in our Lab answer sketches is welcome at any time, but haggling over points on assignments can be a real time sink in a large class. To that end, students are **requested not to dispute** any grading on Labs during the semester, but instead to request a review using the Google Form for Lab Appeals that can be found linked on the Asssignments page on our main web site.
+Clarification of concerns related to potential typographical or other errors in our Lab answer sketches is welcome at any time, but haggling over points on assignments can be a real time sink in a large class. To that end, students are **requested not to dispute** any grading on Labs during the semester, but instead to request a review using the Google Form for Lab Appeals that can be found linked on the Assignments page on our main web site.
 
 Should you receive a lower grade on a Lab than you feel you deserve based on the feedback the TA provides, the answer sketch and the grading rubric, you can submit a request for a regrade by Professor Love by submitting a request through a Google Form he will provide to you.
 
-- On the course's Labs page, we include a section about Grading Errors and Regrade Requests. There, you'll find a link to [this Google Form](https://bit.ly/431-2022-lab-regrade-requests) (you must log into Google via CWRU to see it) listing all of the Labs. Any student who wishes to dispute points can specify the number of points in question for each item, and the details of the issues that concern them. 
+- On [the course's Labs page](https://github.com/THOMASELOVE/431-labs-2022), we include a section about Lab Regrade Requests. There, you'll find a link to [this Google Form](https://bit.ly/431-2022-lab-regrade-requests) (you must log into Google via CWRU to see it) listing all of the Labs. Any student who wishes to dispute points can specify the number of points in question for each item, and the details of the issues that concern them. 
     - All forms must be submitted by the deadline in December specified on the Course Calendar.
     - If you wish to dispute a grade, just fill out the form at any time before the deadline in December. You can edit the form after submitting it so that you can add additional requests up until the end of the semester.
     - Disputing a grade on a homework with a teaching assistant is pointless. 
@@ -809,7 +804,7 @@ We expect you to wear an appropriate mask to reduce the chances of spreading ill
 - Multiple students and teaching assistants in this course either care for small children, those suffering with medical problems, or both. 
 - Professor Love lost most of July 2022 to COVID-19, and is at high risk, and naturally wants to limit the chances of a recurrence.
 
-We want you to learn lots of things from this class, but we primarily want you to stay healthy, balanced, and grounded during this crisis. We also want to make our classroom space as safe as possible. If you are uncomfortable with this requirement, contact Professor Love immediately.
+We want you to learn lots of things from this class, but we primarily want you to stay healthy, balanced, and grounded during this crisis. We also want to make our classroom space as safe as possible. If you are uncomfortable with this expectation, contact Professor Love immediately.
 
 Visit https://case.edu/covid19/covid-19-communications for recent messages to the CWRU community about the pandemic.
 
