@@ -27,7 +27,7 @@ knitr::include_graphics("images/431_foot2.PNG")
     - search the syllabus, 
     - change the size, font or color scheme of the page, and 
     - download a PDF or Kindle (EPUB) version of the entire syllabus.
-3. The syllabus will be updated occasionally. The version listed above shows the most recent update time.
+3. The syllabus will be updated occasionally, with the most recent update time listed above.
 
 ## Who, When and Where? {-}
 
@@ -479,7 +479,11 @@ Zhengxi Chen is a first-year Ph.D. student in Epidemiology and Biostatistics wit
 
 #### Lindsay Petrenchik {-}
 
-Details to come.
+```{r Lindsay_fig, echo = FALSE, out.width = '20%'}
+knitr::include_graphics("images/Lindsay_Petrenchik.jpg")
+```
+
+Lindsay Petrenchik is a Patient Centered Outcomes Fellow at Novartis. At Novartis, Lindsay is involved in the Patient Reported Outcomes (PROs) of the Statistical Analysis Plans, supports PRO post-hoc analyses and R Shiny visualizations, and has dabbled in some psychometric validation studies. After pursuing her PharmD at Touro College of Pharmacy, Lindsay completed her masters in Biostatistics (Healthcare Analytics Track) at Case in 2021, during which she greatly valued the 431/432 tutoring sessions. Lindsay is excited to help other students learn R, conceptualize statistical methods, and share how she uses 431/432 skills daily!
 
 # Getting Help with 431
 
