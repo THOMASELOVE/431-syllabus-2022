@@ -91,7 +91,7 @@ PQHS 431 (cross-listed as CRSP 431 and MPHP 431) is the first half of a two-seme
 
 The course is formally titled *Statistical Methods in Biological & Medical Sciences, Part 1.* A more accurate title is **Data Science for Biological, Medical or Health Research**.
 
-We'll learn about managing and visualizing data, building models and making predictions, and other data science activities. This highly applied course focuses on modern tools for learning from data. We'll learn a lot of R, and we'll use RStudio and R Markdown (and, in 432, Quattro) as tools to help make R work better, and help perform our research in rigorous and replicable ways.
+We'll learn about managing and visualizing data, building models and making predictions, and other data science activities. This highly applied course focuses on modern tools for learning from data. We'll learn a lot of R, and we'll use RStudio and R Markdown (and, in 432, Quarto) as tools to help make R work better, and help perform our research in rigorous and replicable ways.
 
 ## Course Objectives
 
