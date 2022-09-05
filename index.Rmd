@@ -410,9 +410,10 @@ The Fall 2022 Teaching Assistants for 431 are:
 
 ## TA office hours
 
-TA office hours are held via Zoom, will begin on 2022-09-06 and end on 2022-12-12. The weekly schedule will appear on the **Contact Us** page as well as the [Course Calendar](https://thomaselove.github.io/431-2022/calendar.html).
+TA office hours are held via Zoom, will begin on 2022-09-06 and end on 2022-12-12. The weekly schedule appears on our [Contact Us page](https://thomaselove.github.io/431-2022/contact.html) as well as in our [Course Calendar](https://thomaselove.github.io/431-2022/calendar.html).
 
-- Our Shared Google Drive (**431 Fall 2022 Dr Love and Students**) will also contain Zoom links for these sessions in a document called **TA office hours schedule and Zoom links**. 
+- Our Shared Google Drive (431 Fall 2022 Dr Love and Students) now contains Zoom links for each of these sessions in a document called **TA office hours schedule and Zoom links**. 
+  - No appointment is necessary. Please just drop in. 
   - Be sure to log into Google via CWRU to access the shared Drive.
 - TA office hours are cancelled from 2022-11-19 through 2022-11-25 for Thanksgiving break.
 
